@@ -1,0 +1,94 @@
+.container {
+	max-width: 250px;
+	background: #f9f9f9;
+	margin-top: 50px;
+	border-radius: 8px 8px 25px 25px;
+}
+
+body {
+	font-weight: bold;
+}
+
+.btn {
+	border-radius: 50px;
+	font-size: 14px;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 10px;
+}
+
+.btn:a {
+	color: inherit;
+}
+
+.row {
+	padding: 5px 0px 5px 0px;
+}
+
+.last {
+	padding-bottom: 15px;
+}
+
+.col-xs-3,
+col-xs-6 {
+	margin: 0px;
+}
+
+.num-btn {
+	background: #b6b6b6;
+	color: black;
+}
+
+.num-btn:hover,
+.num-btn:focus {
+	background: #cfcfcf;
+}
+
+#screen {
+	background: #92947f;
+	color: #242f33;
+	padding: 0px;
+	width: 86%;
+	margin: auto;
+	margin-top: 10px;
+	height: 50px;
+	padding: 10px;
+	border-radius: 8px;
+	font-family: "Share Tech Mono";
+	text-align: right;
+}
+
+h2 {
+	padding: 0px;
+}
+
+#clr-btn {
+	padding-left: 27px;
+	padding-right: 27px;
+}
+
+.op-btn {
+	background: #2c1c19;
+	color: white;
+}
+
+.op-btn:hover,
+.op-btn:focus {
+	background: #4f322d;
+	color: white;
+}
+
+#output {
+	padding: 0px;
+	margin: 0px;
+}
+
+#eql-btn {
+	background: #fda800;
+	color: black;
+}
+
+#eql-btn:hover,
+#eql-btn:focus {
+	background: #ffc000;
+	color: black;
+}
