@@ -1,16 +1,13 @@
-//CHANGE BACKGROUND COLOUR, ADD COMMENTS
-
-var displayValue;
-var numValue = 0;
-var previousEntry;
-var operation = null;
-var equation = "";
-
 function isNumber(n) {
 	return n != isNaN && isFinite(n);
 }
 
 $(document).ready(function() {
+    var displayValue;
+    var numValue = 0;
+    var previousEntry;
+    var operation = null;
+    var equation = "";
     $(".btn").on("click", function() {
         displayValue = $(this).text();
 
