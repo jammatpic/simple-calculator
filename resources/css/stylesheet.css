@@ -34,13 +34,13 @@ col-xs-6 {
 	margin: 0px;
 }
 
-.num-btn {
+.grey-btn {
 	background: #b6b6b6;
 	color: black;
 }
 
-.num-btn:hover,
-.num-btn:focus {
+.grey-btn:hover,
+.grey-btn:focus {
 	background: #cfcfcf;
 }
 
@@ -67,13 +67,13 @@ h2 {
 	padding-right: 27px;
 }
 
-.op-btn {
+.brown-btn {
 	background: #2c1c19;
 	color: white;
 }
 
-.op-btn:hover,
-.op-btn:focus {
+.brown-btn:hover,
+.brown-btn:focus {
 	background: #4f322d;
 	color: white;
 }
@@ -83,13 +83,13 @@ h2 {
 	margin: 0px;
 }
 
-#eql-btn {
+#yellow-btn {
 	background: #fda800;
 	color: black;
 }
 
-#eql-btn:hover,
-#eql-btn:focus {
+#yellow-btn:hover,
+#yellow-btn:focus {
 	background: #ffc000;
 	color: black;
 }
